@@ -1,4 +1,5 @@
 📘 **Energy Waste Detection in Smart Homes**
+
 🔍 **Background**
 
 Smart homes use IoT devices and sensors to monitor appliance-level energy consumption. When combined with weather data, this enables better understanding of energy usage patterns and helps identify inefficiencies and energy waste.
